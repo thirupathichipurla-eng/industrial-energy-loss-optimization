@@ -81,7 +81,7 @@ Multiple optimization scenarios were evaluated based on:
 
 | Category | Tools |
 |---|---|
-| Analysis | Excel, MATLAB |
+| Analysis | Excel, Polysun |
 | Engineering | Electrical Heating Systems |
 | Simulation | Energy Analysis |
 | Evaluation | Economic & Technical Assessment |
