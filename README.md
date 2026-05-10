@@ -53,8 +53,6 @@ This project focuses on identifying and optimizing those inefficiencies.
 
 # 🧠 Engineering Methodology
 
-The project involved:
-
 ## 🔹 Data Collection
 - industrial operational data
 - transformer specifications
@@ -133,17 +131,45 @@ Optimization of operational energy costs using technical improvements.
 industrial-energy-loss-optimization/
 │
 ├── README.md
-├── reports/
-├── images/
-├── calculations/
-├── presentation/
+├── infrastructure-layout.png
+├── primary-cable-losses.png
+├── transformer-efficiency.png
+├── secondary-cable-losses.png
+├── sankey-loss-analysis.png
+├── LICENSE
 ```
 
 ---
 
 # 📸 Project Visuals
 
-Project screenshots, diagrams, calculations, and optimization visuals will be added here.
+## 🏭 Industrial Infrastructure Layout
+
+![Infrastructure Layout](infrastructure-layout.png)
+
+---
+
+## 🔌 Primary Cable Loss Analysis
+
+![Primary Cable Losses](primary-cable-losses.png)
+
+---
+
+## ⚡ Transformer Efficiency Analysis
+
+![Transformer Efficiency](transformer-efficiency.png)
+
+---
+
+## 🔋 Secondary Cable Resistance Losses
+
+![Secondary Cable Losses](secondary-cable-losses.png)
+
+---
+
+## 🔁 Sankey Energy Loss Analysis
+
+![Sankey Loss Analysis](sankey-loss-analysis.png)
 
 ---
 
@@ -164,10 +190,10 @@ Project screenshots, diagrams, calculations, and optimization visuals will be ad
 🎓 M.Eng. International Energy Engineering  
 🏛️ OTH Amberg-Weiden, Germany  
 
-🔗 LinkedIn:
+🔗 LinkedIn:  
 https://www.linkedin.com/in/thirupathireddychipurla/
 
-🌐 Portfolio:
+🌐 Portfolio:  
 https://thirupathichipurla-eng.github.io/
 
 ---
